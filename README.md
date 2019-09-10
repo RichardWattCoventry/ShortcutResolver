@@ -1,0 +1,2 @@
+# ShortcutResolver
+Shortcut Resolver Application
